@@ -9,4 +9,5 @@ Each step is a tag, `step-00` onwards. Read the history with `git log --oneline 
 
 ```
 uvx pytest -q
+uvx ruff format
 ```
